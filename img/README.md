@@ -25,3 +25,8 @@ Images found here are licensed under one of the following terms:
 
 * [TIOBE Programming Language Index](https://www.tiobe.com/tiobe-index/)
   * The only condition \[for using TIOBE index\] is to refer to its original source: www.tiobe.com
+
+## BSD-2-Clause license 
+
+* [Python visualization landscape](https://github.com/rougier/python-visualization-landscape/blob/master/landscape-colors.png)
+  * Originally from the [Python Visualization Landscape slide](https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017?slide=36) from Jake VanderPlas' keynote at Pycon 2017
